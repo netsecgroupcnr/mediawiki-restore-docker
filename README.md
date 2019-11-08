@@ -15,8 +15,8 @@ If you intend to use this software, you have to configure your running [MediaWik
 
 Access your live [MediaWiki](https://www.mediawiki.org) host and add at the beggining of `LocalSettings.php`:
 ```
-error_reporting( -1 );
-ini_set( 'display_errors', 0 );
+error_reporting(-1);
+ini_set('display_errors', 0);
 $wgDevelopmentWarnings = false;
 ```
 
