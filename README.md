@@ -13,7 +13,7 @@ If you intend to use this software, you have to configure your running [MediaWik
 
 #### MediaWiki configuration ####
 
-Access your live [MediaWiki](https://www.mediawiki.org) host and add at the beggining of `LocalSettings.php`:
+Access your live [MediaWiki](https://www.mediawiki.org) host and add at the beggining of `LocalSettings.php`, just on the line after the first `<?php` tag:
 ```
 error_reporting(-1);
 ini_set('display_errors', 0);
