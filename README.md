@@ -41,7 +41,7 @@ Instead, values like your IP address on the current LAN network is accepted.
 
 1. Create the `input` folder on the repository root folder
 2. Put backup SQL zipped file into the `input` folder and name it as `*.sql.zip`
-3. Put `www-data` zipped backup into the `input` folder and name it `data.zip` (note that the ZIP file is expected to include a `data` folder, including all )
+3. Put `www-data` zipped backup into the `input` folder and name it `data.zip` (note that the ZIP file is expected to include a `data` folder, including all files in the `DocumentRoot`)
 4. Run `sh prepare.sh`
 5. Run `docker-compose up -d`
 6. Access http://localhost:8080
