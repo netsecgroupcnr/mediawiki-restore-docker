@@ -45,6 +45,7 @@ Instead, values like your IP address on the current LAN network is accepted.
 4. Run `sh prepare.sh`
 5. Run `docker-compose up -d`
 6. Access http://localhost:8080
+7. Optionally, it's possible to access [Adminer](https://www.adminer.org) at http://localhost:5000
 
 ### License ###
 
