@@ -55,13 +55,13 @@ The program is licensed under the [Creative Commons Attribution-NonCommercial-Sh
 
 This program is implemented by the [NetSec group of CNR-IEIIT](http://www.netsec.ieiit.cnr.it).
 
-#### Credits ####
-
-Idea by:
-* Enrico Cambiaso
-
-Designed by:
-* Enrico Cambiaso
-
-Developed by:
-* Enrico Cambiaso
+Credits:
+ * Idea:
+   * Enrico Cambiaso
+ * Design:
+   * Enrico Cambiaso
+ * Development:
+   * Enrico Cambiaso
+ * Support:
+   * Maurizio Aiello
+   * Ivan Vaccari
